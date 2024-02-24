@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Starpath School of Navigation - http://www.starpath.com">
+<rte>
+<name>VS1</name>
+<rtept lat="65.11942098341154" lon="14.51698893165932">
+			<name>001</name>
+		</rtept>
+        <rtept lat="65.12290546460486" lon="14.52809603716357">
+			<name>002</name>
+		</rtept>
+        <rtept lat="65.12697208013222" lon="14.52989646484448">
+			<name>003</name>
+		</rtept>
+        <rtept lat="65.13223989318601" lon="14.54309955516105">
+			<name>004</name>
+		</rtept>
+        <rtept lat="65.14140303907037" lon="14.54382081134882">
+			<name>005</name>
+		</rtept>
+        <rtept lat="65.15026410281612" lon="14.56698258652936">
+			<name>006</name>
+		</rtept>
+        <rtept lat="65.15851501783881" lon="14.57371814972795">
+			<name>007</name>
+		</rtept>
+        <rtept lat="65.16452683956341" lon="14.59944076218415">
+			<name>008</name>
+		</rtept>
+        <rtept lat="65.15822286545941" lon="14.64125807571623">
+			<name>009</name>
+		</rtept>
+        <rtept lat="65.16122573116091" lon="14.64340444401408">
+			<name>010</name>
+		</rtept>
+        <rtept lat="65.1664811746348" lon="14.64090473336723">
+			<name>011</name>
+		</rtept>
+        <rtept lat="65.1694843076283" lon="14.63590135429092">
+			<name>012</name>
+		</rtept>
+        <rtept lat="65.1712871168691" lon="14.63304153138627">
+			<name>013</name>
+		</rtept>
+        <rtept lat="65.18646430369168" lon="14.65059057558019">
+			<name>014</name>
+		</rtept>
+        <rtept lat="65.19610179950836" lon="14.64953918973772">
+			<name>015</name>
+		</rtept>
+        <rtept lat="65.20063082813007" lon="14.64381588671002">
+			<name>016</name>
+		</rtept>
+        <rtept lat="65.20651298266149" lon="14.65243785453128">
+			<name>017</name>
+		</rtept>
+        <rtept lat="65.20682094231687" lon="14.64454583898646">
+			<name>018</name>
+		</rtept>
+        <rtept lat="65.21056961399795" lon="14.63054859372067">
+			<name>019</name>
+		</rtept>
+        <rtept lat="65.20410717080136" lon="14.61799134442269">
+			<name>020</name>
+		</rtept>
+        <rtept lat="65.20184663617111" lon="14.60543341177401">
+			<name>021</name>
+		</rtept>
+        <rtept lat="65.20289356283185" lon="14.5910841703392">
+			<name>022</name>
+		</rtept>
+        <rtept lat="65.20243995168909" lon="14.57960478840438">
+			<name>023</name>
+		</rtept>
+        <rtept lat="65.19822513201835" lon="14.58463947354078">
+			<name>024</name>
+		</rtept>
+        <rtept lat="65.19159450298122" lon="14.57785218811445">
+			<name>025</name>
+		</rtept>
+        <rtept lat="65.1903875039802" lon="14.56997229722158">
+			<name>026</name>
+		</rtept>
+        <rtept lat="65.18555997966905" lon="14.56500117674987">
+			<name>027</name>
+		</rtept>
+        <rtept lat="65.17804290954251" lon="14.57183964996895">
+			<name>028</name>
+		</rtept>
+        <rtept lat="65.17127798647773" lon="14.56865306857166">
+			<name>029</name>
+		</rtept>
+        <rtept lat="65.17052213991005" lon="14.55935715121582">
+			<name>030</name>
+		</rtept>
+        <rtept lat="65.16886473889842" lon="14.55115833073235">
+			<name>031</name>
+		</rtept>
+        <rtept lat="65.16254981668354" lon="14.53583400355486">
+			<name>032</name>
+		</rtept>
+        <rtept lat="65.16493571953525" lon="14.51223531591962">
+			<name>033</name>
+		</rtept>
+        <rtept lat="65.16612563145245" lon="14.49867186523514">
+			<name>034</name>
+		</rtept>
+        <rtept lat="65.1673097931214" lon="14.48151587427472">
+			<name>035</name>
+		</rtept>
+        <rtept lat="65.17074421218993" lon="14.46507413331912">
+			<name>036</name>
+		</rtept>
+        <rtept lat="65.16950853119066" lon="14.43580222657455">
+			<name>037</name>
+		</rtept>
+        <rtept lat="65.18258289133868" lon="14.35279217264014">
+			<name>038</name>
+		</rtept>
+        <rtept lat="65.16589494875477" lon="14.34717742953159">
+			<name>039</name>
+		</rtept>
+        <rtept lat="65.13282206987428" lon="14.33204881077281">
+			<name>040</name>
+		</rtept>
+        <rtept lat="65.1178472045012" lon="14.32598664607576">
+			<name>041</name>
+		</rtept>
+        <rtept lat="65.07999206405803" lon="14.42488114090967">
+			<name>042</name>
+		</rtept>
+        <rtept lat="65.08193700756168" lon="14.4379812144626">
+			<name>043</name>
+		</rtept>
+        <rtept lat="65.08524343883008" lon="14.45253017032186">
+			<name>044</name>
+		</rtept>
+        <rtept lat="65.09305204749484" lon="14.4628013595265">
+			<name>045</name>
+		</rtept>
+        <rtept lat="65.09949501525494" lon="14.46843032532067">
+			<name>046</name>
+		</rtept>
+        <rtept lat="65.10202730714617" lon="14.46837082288422">
+			<name>047</name>
+		</rtept>
+        <rtept lat="65.11703274461914" lon="14.50243139295088">
+			<name>048</name>
+		</rtept>
+        <rtept lat="65.11942098341154" lon="14.51698893165932">
+			<name>049</name>
+		</rtept>
+        </rte>
+</gpx>
