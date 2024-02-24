@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>VS10.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>VS10</name>
+		<visibility>0</visibility>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				14.70309254063935,64.98384664526859,0 14.72730392301093,64.99149549790721,0 14.72371302645369,65.00381655855966,0 14.73666730958674,65.01697576423436,0 14.73880932471847,65.0250220859897,0 14.72979963236325,65.03223769302311,0 14.72796120786296,65.04114911475651,0 14.75072943173126,65.03390494603538,0 14.88661329827596,65.02859549148556,0 14.87673326878522,65.02459467765364,0 14.87304273808029,65.01869363061152,0 14.87788881997154,65.01172853346816,0 14.85994666482012,65.00245480978055,0 14.85596635310757,64.99716781988133,0 14.87301338064698,64.99373898699459,0 14.87600358569563,64.98080291188012,0 14.88208377353584,64.97213149765005,0 14.8670113710919,64.97151569769524,0 14.85197333468694,64.96328898579814,0 14.8448334268927,64.96262541072107,0 14.83774407429672,64.96007277125295,0 14.83422369265254,64.95562768408531,0 14.83219925516521,64.95266023766681,0 14.82014947737121,64.95267168002133,0 14.78800693814693,64.96329509534733,0 14.73652410738027,64.97622550975069,0 14.70309254063935,64.98384664526859,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
