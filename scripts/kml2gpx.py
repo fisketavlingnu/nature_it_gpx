@@ -14,6 +14,7 @@ import gpxpy.gpx
 parser = argparse.ArgumentParser(description='skapa en effektiv gpx fil från länsstyrelsens generade KML fil')
 
 parser.add_argument('-file',help='File to read', required=True)
+parser.add_argument('-output',help='Name of output file', required=True)
 args = parser.parse_args()
 filedata=open(args.file,"r")
 coordinates=""
@@ -62,7 +63,7 @@ for n in db:
         gpx_segment.points.append(gpxpy.gpx.GPXTrackPoint(lat,lon))
 
         
-outfile=open("all.gpx","w")
+outfile=open(args.output,"w")
 for line in gpx.to_xml():
     outfile.write(line)
 outfile.close()
