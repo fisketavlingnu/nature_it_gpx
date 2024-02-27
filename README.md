@@ -19,12 +19,20 @@ antalet spår i sin navigator så därför rekommenderar vi att man väljer de o
 och rensar spår som man inte ska till (just nu)
 
 ### Västerbotten ###
+#### Undantagna områden ####
+Några områden är ej möjliga att generera pga av att de har multipla polygoner vilket GPX inte stödjer.
+Dessa är:
+* VA20
+* VA10
+* VA2
+* U2
+* R36
+* VN24
+#### Genererade områden ####
+
 Här finns alla gpx filer under vasterbotten/gpx
 * Vilhelmina Södra: Alla områden som har ett namn som startar på VS (Vilhelmina_Sodra_VS.gpx)
 * Vilhelmina Norra: Alla områden som har ett namn som startar på VN (Vilhelmina_Norra_VN.gpx)
-  Följande områden är ej kompletta i nuläget:
-  VN24: Visar innerområdet - kolla script
-  
 * Storuman Ubmeje: Alla områden som har ett namn som startar på U (Storuman_Ubmeje_U.gpx) 
 * Storuman Vapsten: Alla områden som har ett namn som startar på VA (Storuman_Vapsten_VA.gpx) 
 * Sorsele Ran: Alla områden som har ett namn som startar på R (Sorsele_Ran_R.gpx) 
