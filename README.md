@@ -22,6 +22,9 @@ och rensar spår som man inte ska till (just nu)
 Här finns alla gpx filer under vasterbotten/gpx
 * Vilhelmina Södra: Alla områden som har ett namn som startar på VS (Vilhelmina_Sodra_VS.gpx)
 * Vilhelmina Norra: Alla områden som har ett namn som startar på VN (Vilhelmina_Norra_VN.gpx)
+  Följande områden är ej kompletta i nuläget:
+  VN24: Visar innerområdet - kolla script
+  
 * Storuman Ubmeje: Alla områden som har ett namn som startar på U (Storuman_Ubmeje_U.gpx) 
 * Storuman Vapsten: Alla områden som har ett namn som startar på VA (Storuman_Vapsten_VA.gpx) 
 * Sorsele Ran: Alla områden som har ett namn som startar på R (Sorsele_Ran_R.gpx) 

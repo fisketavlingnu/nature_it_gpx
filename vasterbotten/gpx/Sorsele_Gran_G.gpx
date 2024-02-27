@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <metadata>
+    <desc>Denna fil med jaktområden används på egen risk!</desc>
+    <author>
+      <name>Outdoor Recreation Sverige</name>
+      <email id="info" domain="fisketavling.nu" />
+    </author>
+    <time>2024-02-27</time>
+  </metadata>
   <trk>
     <name>G15</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="66.1301593384813" lon="15.7926623712532">
       </trkpt>
@@ -195,8 +202,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G17</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="66.0664936873606" lon="16.1607911058032">
       </trkpt>
@@ -428,8 +434,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G1</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="66.2833356665415" lon="15.6508335566457">
       </trkpt>
@@ -525,8 +530,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G5</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="66.2269543082129" lon="15.5147707213897">
       </trkpt>
@@ -714,8 +718,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G3</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="66.2881370666696" lon="15.7805918463379">
       </trkpt>
@@ -845,8 +848,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G8</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="66.2019766914158" lon="15.9253010163429">
       </trkpt>
@@ -1032,8 +1034,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G14</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="66.1314052611053" lon="15.9801002495921">
       </trkpt>
@@ -1125,8 +1126,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G18</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="66.0380054637382" lon="16.2294066472726">
       </trkpt>
@@ -1224,8 +1224,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G19</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="66.0225642251969" lon="16.4943075200229">
       </trkpt>
@@ -1309,8 +1308,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G22</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="65.9027336903667" lon="16.6679013353331">
       </trkpt>
@@ -1494,8 +1492,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G20</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="66.0208467796305" lon="16.5692870922554">
       </trkpt>
@@ -1645,8 +1642,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G21</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="65.9611499904656" lon="16.401257305363">
       </trkpt>
@@ -1832,8 +1828,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G23</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="65.884443561978" lon="16.639797835903">
       </trkpt>
@@ -1959,8 +1954,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G24</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="66.0300232851045" lon="16.7739157609365">
       </trkpt>
@@ -2080,8 +2074,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G25</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="65.9669942835577" lon="16.8196868500077">
       </trkpt>
@@ -2205,8 +2198,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G26</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="65.8844689297633" lon="16.7959033092533">
       </trkpt>
@@ -2318,8 +2310,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G27</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="65.8871854762838" lon="17.0867356648924">
       </trkpt>
@@ -2505,8 +2496,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G29</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="65.7015603264725" lon="17.3227924196269">
       </trkpt>
@@ -2628,8 +2618,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G28</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="65.8039441987066" lon="17.2029913696962">
       </trkpt>
@@ -2943,8 +2932,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G2</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="66.2577948189132" lon="15.4320585528093">
       </trkpt>
@@ -3044,8 +3032,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G4</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="66.2645436902312" lon="15.5362048034572">
       </trkpt>
@@ -3291,8 +3278,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G9</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="66.2197390929746" lon="15.9901625549502">
       </trkpt>
@@ -3420,8 +3406,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G16</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="66.0382174995254" lon="16.2202080370774">
       </trkpt>
@@ -3533,8 +3518,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G13</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="66.1032543668905" lon="16.1189174573647">
       </trkpt>
@@ -3634,8 +3618,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G12</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="66.1671348048693" lon="16.1247468122212">
       </trkpt>
@@ -3799,8 +3782,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G10</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="66.1776563217745" lon="15.8616995249736">
       </trkpt>
@@ -4024,8 +4006,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G11</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="66.1625244355696" lon="15.7024957877365">
       </trkpt>
@@ -4195,8 +4176,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G7</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="66.2570955062878" lon="15.7091916200893">
       </trkpt>
@@ -4394,8 +4374,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>G6</name>
-    <desc>Gran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Gran Sameby</desc>
     <trkseg>
       <trkpt lat="66.2620361146364" lon="15.7481804675921">
       </trkpt>

@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <metadata>
+    <desc>Denna fil med jaktområden används på egen risk!</desc>
+    <author>
+      <name>Outdoor Recreation Sverige</name>
+      <email id="info" domain="fisketavling.nu" />
+    </author>
+    <time>2024-02-27</time>
+  </metadata>
   <trk>
     <name>R37</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="65.4894548725508" lon="16.9564322395529">
       </trkpt>
@@ -33,8 +40,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R15</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="65.9924710340109" lon="15.2887161347209">
       </trkpt>
@@ -212,33 +218,163 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R36</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
-      <trkpt lat="65.6602312263725" lon="16.7119670598192">
+      <trkpt lat="65.7597433950261" lon="16.8966392568064">
       </trkpt>
-      <trkpt lat="65.6495271517811" lon="16.7560602341464">
+      <trkpt lat="65.7583861174984" lon="16.9039381661492">
       </trkpt>
-      <trkpt lat="65.6385951663763" lon="16.8001060270156">
+      <trkpt lat="65.7616765291824" lon="16.9251538692072">
       </trkpt>
-      <trkpt lat="65.6615160534785" lon="16.8325945350614">
+      <trkpt lat="65.770693323785" lon="16.9850972554072">
       </trkpt>
-      <trkpt lat="65.6640236269756" lon="16.8217853551991">
+      <trkpt lat="65.7740804200874" lon="16.9942258077587">
       </trkpt>
-      <trkpt lat="65.6695763222044" lon="16.7978356376594">
+      <trkpt lat="65.7667684108973" lon="17.0127896728152">
       </trkpt>
-      <trkpt lat="65.6588550861093" lon="16.7837212373796">
+      <trkpt lat="65.7625007115108" lon="17.005721004002">
       </trkpt>
-      <trkpt lat="65.6722326647651" lon="16.7297757509299">
+      <trkpt lat="65.7516766299934" lon="16.9299127003905">
       </trkpt>
-      <trkpt lat="65.6602312263725" lon="16.7119670598192">
+      <trkpt lat="65.7379836925391" lon="16.9097680969703">
+      </trkpt>
+      <trkpt lat="65.7345651117456" lon="16.9043410522252">
+      </trkpt>
+      <trkpt lat="65.7323148904757" lon="16.9147441832651">
+      </trkpt>
+      <trkpt lat="65.7285056278551" lon="16.9303225869047">
+      </trkpt>
+      <trkpt lat="65.7195379651197" lon="16.9666510293975">
+      </trkpt>
+      <trkpt lat="65.7051997547465" lon="16.9464808475816">
+      </trkpt>
+      <trkpt lat="65.6897406414878" lon="16.9247014644987">
+      </trkpt>
+      <trkpt lat="65.6878097200748" lon="16.9219795855333">
+      </trkpt>
+      <trkpt lat="65.6653893567215" lon="16.8904510232085">
+      </trkpt>
+      <trkpt lat="65.616778817466" lon="16.8216268094525">
+      </trkpt>
+      <trkpt lat="65.6060641522632" lon="16.8075343292985">
+      </trkpt>
+      <trkpt lat="65.6054278344324" lon="16.8054111723822">
+      </trkpt>
+      <trkpt lat="65.6045728298298" lon="16.8038057423776">
+      </trkpt>
+      <trkpt lat="65.5745685442961" lon="16.762220083495">
+      </trkpt>
+      <trkpt lat="65.5744220434643" lon="16.7609644659586">
+      </trkpt>
+      <trkpt lat="65.5739556972113" lon="16.756968156629">
+      </trkpt>
+      <trkpt lat="65.578310748863" lon="16.7540203598127">
+      </trkpt>
+      <trkpt lat="65.585526611957" lon="16.7438791253429">
+      </trkpt>
+      <trkpt lat="65.5927644119101" lon="16.7220657234971">
+      </trkpt>
+      <trkpt lat="65.5928042544263" lon="16.7219455918694">
+      </trkpt>
+      <trkpt lat="65.6018513650642" lon="16.7149181313783">
+      </trkpt>
+      <trkpt lat="65.6018559669826" lon="16.7149145552194">
+      </trkpt>
+      <trkpt lat="65.6173994732167" lon="16.737918590683">
+      </trkpt>
+      <trkpt lat="65.618468366544" lon="16.7383963669763">
+      </trkpt>
+      <trkpt lat="65.631368690162" lon="16.6898179207794">
+      </trkpt>
+      <trkpt lat="65.6200125737468" lon="16.6720828649855">
+      </trkpt>
+      <trkpt lat="65.6178767923751" lon="16.66833333995">
+      </trkpt>
+      <trkpt lat="65.6135885576353" lon="16.6613590609482">
+      </trkpt>
+      <trkpt lat="65.6173369495692" lon="16.6510414818354">
+      </trkpt>
+      <trkpt lat="65.6180365116818" lon="16.6437426736186">
+      </trkpt>
+      <trkpt lat="65.6186952553481" lon="16.6421986364772">
+      </trkpt>
+      <trkpt lat="65.623026371875" lon="16.6423677767647">
+      </trkpt>
+      <trkpt lat="65.631592355674" lon="16.6568409033486">
+      </trkpt>
+      <trkpt lat="65.6554496610219" lon="16.6504482096104">
+      </trkpt>
+      <trkpt lat="65.6548878735655" lon="16.6367983587229">
+      </trkpt>
+      <trkpt lat="65.6440429466409" lon="16.6395198639816">
+      </trkpt>
+      <trkpt lat="65.6296629587613" lon="16.6201130078891">
+      </trkpt>
+      <trkpt lat="65.63055231395" lon="16.6164824203286">
+      </trkpt>
+      <trkpt lat="65.6290563258875" lon="16.6127585446089">
+      </trkpt>
+      <trkpt lat="65.6283867488129" lon="16.6163986144229">
+      </trkpt>
+      <trkpt lat="65.6262295189324" lon="16.6147466647797">
+      </trkpt>
+      <trkpt lat="65.6247296586966" lon="16.6125944317603">
+      </trkpt>
+      <trkpt lat="65.6254201467001" lon="16.6058159746609">
+      </trkpt>
+      <trkpt lat="65.6284829416809" lon="16.6006970876822">
+      </trkpt>
+      <trkpt lat="65.6297595496845" lon="16.6044080126286">
+      </trkpt>
+      <trkpt lat="65.6469245295621" lon="16.6291541915071">
+      </trkpt>
+      <trkpt lat="65.6513531864128" lon="16.6136060685762">
+      </trkpt>
+      <trkpt lat="65.6330289996991" lon="16.58793265957">
+      </trkpt>
+      <trkpt lat="65.6584554798921" lon="16.5299108206914">
+      </trkpt>
+      <trkpt lat="65.6649206127274" lon="16.5543506704285">
+      </trkpt>
+      <trkpt lat="65.6795605318713" lon="16.6114591410134">
+      </trkpt>
+      <trkpt lat="65.6875300818902" lon="16.6426097780887">
+      </trkpt>
+      <trkpt lat="65.69935931524" lon="16.6889285041805">
+      </trkpt>
+      <trkpt lat="65.7308978261507" lon="16.729301000037">
+      </trkpt>
+      <trkpt lat="65.7193168678259" lon="16.775911963574">
+      </trkpt>
+      <trkpt lat="65.7283653607328" lon="16.7904579903983">
+      </trkpt>
+      <trkpt lat="65.728396790795" lon="16.7906062518305">
+      </trkpt>
+      <trkpt lat="65.7396355559795" lon="16.807417324142">
+      </trkpt>
+      <trkpt lat="65.7517149356138" lon="16.7560060319429">
+      </trkpt>
+      <trkpt lat="65.7610929306671" lon="16.7680539684388">
+      </trkpt>
+      <trkpt lat="65.7585817347175" lon="16.7792953535529">
+      </trkpt>
+      <trkpt lat="65.7693307342354" lon="16.7952744933563">
+      </trkpt>
+      <trkpt lat="65.7722768771529" lon="16.7825597471387">
+      </trkpt>
+      <trkpt lat="65.7729064444473" lon="16.7835708612628">
+      </trkpt>
+      <trkpt lat="65.7830145589407" lon="16.799813237829">
+      </trkpt>
+      <trkpt lat="65.7606198896407" lon="16.8951023322945">
+      </trkpt>
+      <trkpt lat="65.7597433950261" lon="16.8966392568064">
       </trkpt>
     </trkseg>
   </trk>
   <trk>
     <name>R1</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="66.1704049076458" lon="15.4286204659402">
       </trkpt>
@@ -392,8 +528,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R5</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="66.1529545227242" lon="15.3652736050764">
       </trkpt>
@@ -545,8 +680,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R13</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="66.0724175068813" lon="15.4623396050482">
       </trkpt>
@@ -696,8 +830,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R10</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="66.1048160574227" lon="15.2226593919305">
       </trkpt>
@@ -809,8 +942,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R6</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="66.1419123224431" lon="15.2420417252388">
       </trkpt>
@@ -944,8 +1076,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R4</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="66.183774152277" lon="15.4415878006024">
       </trkpt>
@@ -1153,8 +1284,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R14</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="66.017047045275" lon="15.2846277754995">
       </trkpt>
@@ -1326,8 +1456,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R28</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="65.9425087941064" lon="16.2392794830062">
       </trkpt>
@@ -1431,8 +1560,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R29</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="65.8876175581054" lon="16.250390764621">
       </trkpt>
@@ -1562,8 +1690,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R30</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="65.8415327750229" lon="16.2007096596077">
       </trkpt>
@@ -1673,8 +1800,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R31</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="65.8556728566838" lon="16.4249080768323">
       </trkpt>
@@ -1752,8 +1878,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R32</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="65.8350391407517" lon="16.2513580217583">
       </trkpt>
@@ -1899,8 +2024,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R33</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="65.8382189765447" lon="16.490085461875">
       </trkpt>
@@ -2098,8 +2222,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R34</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="65.7737424997779" lon="16.5065111638103">
       </trkpt>
@@ -2319,8 +2442,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R35</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="65.7804156689804" lon="16.7359922495006">
       </trkpt>
@@ -2562,8 +2684,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R25</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="65.9277615590733" lon="15.933195327296">
       </trkpt>
@@ -2683,8 +2804,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R3</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="66.1655590324679" lon="15.1699993513391">
       </trkpt>
@@ -2768,8 +2888,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R7</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="66.1423623994281" lon="15.0422734430192">
       </trkpt>
@@ -2883,8 +3002,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R19</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="65.978166597141" lon="15.9601710788661">
       </trkpt>
@@ -3000,8 +3118,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R16</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="66.0647482444032" lon="15.7887051880473">
       </trkpt>
@@ -3129,8 +3246,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R11</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="66.1158493027824" lon="15.6259210600827">
       </trkpt>
@@ -3304,8 +3420,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R17</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="66.0423290268362" lon="15.550628633415">
       </trkpt>
@@ -3519,8 +3634,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R9</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="66.1136255802539" lon="15.4010415831219">
       </trkpt>
@@ -3644,8 +3758,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R8</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="66.1168969679914" lon="15.491599983386">
       </trkpt>
@@ -3825,8 +3938,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R27</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="65.8264803630217" lon="15.7724112468979">
       </trkpt>
@@ -3996,8 +4108,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R23</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="65.9752798145019" lon="15.8412875789637">
       </trkpt>
@@ -4151,8 +4262,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R21</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="65.9559837968472" lon="15.7810586193164">
       </trkpt>
@@ -4434,8 +4544,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R22</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="65.9767087853595" lon="16.1779174995395">
       </trkpt>
@@ -4521,8 +4630,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R2</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="66.1428204176878" lon="15.3390391749177">
       </trkpt>
@@ -4652,8 +4760,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R20</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="66.0233508912555" lon="15.7496804753369">
       </trkpt>
@@ -4843,8 +4950,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R12</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="66.0849458964196" lon="15.5557724841086">
       </trkpt>
@@ -5082,8 +5188,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R18</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="65.9995304659575" lon="15.4557300080607">
       </trkpt>
@@ -5341,8 +5446,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R26</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="65.9018497252324" lon="15.8916256225532">
       </trkpt>
@@ -5510,8 +5614,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>R24</name>
-    <desc>Ran Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Ran Sameby</desc>
     <trkseg>
       <trkpt lat="65.9728679488814" lon="16.0742053709678">
       </trkpt>

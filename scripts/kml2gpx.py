@@ -32,9 +32,10 @@ parser = argparse.ArgumentParser(description='skapa en effektiv gpx fil från l�
 parser.add_argument('-file',help='File to read', required=True)
 parser.add_argument('-output',help='Name of output file', required=True)
 parser.add_argument('-filter',help='Filter on name of area', required=False)
-parser.add_argument('-description',help='Description', required=False)
+parser.add_argument('-area',help='Area', required=False)
 args = parser.parse_args()
 
+print("Processar "+args.file+"för att generera "+args.output+":")
 
 
 filedata=open(args.file,"r")
@@ -46,6 +47,8 @@ for line in filedata:
     line=line.strip()
     if (line.find("SimpleData name=\"JAKTOMR") or line.find("coordinates")):
         if "SimpleData name=\"JAKTOMR" in line:
+            no_of_polygons=0
+
             tmp=list(line.split(">"))
             tmp.pop()
             tmp.remove(tmp[0])
@@ -54,19 +57,29 @@ for line in filedata:
                 name.pop()
                 name=name.pop()
                 db[name]="#"
-                #print("Name="+name)
         elif "coordinate" in line:
-            line=line.replace("<coordinates>",'')
-            line=line.replace("</coordinates>",'')
-            line=line.replace("0.0 ",'')
-            db[name]=line
+            if no_of_polygons==0:
+                line=line.replace("<coordinates>",'')
+                line=line.replace("</coordinates>",'')
+                line=line.replace("0.0 ",'')
+                db[name]=line
+                no_of_polygons+=1
+            else:
+                if args.filter is None:
+                    print("VARNING("+name+ "): har flera polygoner associerade med sig - Använder endast första polygonen.")
+                elif args.filter in name:
+                    print("VARNING("+name+ "): har flera polygoner associerade med sig - Använder endast första polygonen.")
 
 gpx = gpxpy.gpx.GPX()
-tdescription=args.description + """
-Används på egen risk.Filen skapad """ +str(today) + """ av Outdoor Recreation Sverige. info@fisketavling.nu""" 
+
+gpx.description="Denna fil med jaktområden används på egen risk!"
+gpx.time=today
+gpx.author_name="Outdoor Recreation Sverige"
+gpx.author_email="info@fisketavling.nu"
+
 for n in db:
     if (args.filter==None):
-        gpx_track = gpxpy.gpx.GPXTrack(name=n,description=tdescription)
+        gpx_track = gpxpy.gpx.GPXTrack(name=n,description=args.area)
         gpx.tracks.append(gpx_track)
         # Segment
         gpx_segment = gpxpy.gpx.GPXTrackSegment()
@@ -84,7 +97,7 @@ for n in db:
             lat=pos[i+1]
             gpx_segment.points.append(gpxpy.gpx.GPXTrackPoint(lat,lon))
     elif (args.filter in n):
-        gpx_track = gpxpy.gpx.GPXTrack(name=n,description=tdescription)
+        gpx_track = gpxpy.gpx.GPXTrack(name=n,description=args.area)
         gpx.tracks.append(gpx_track)
         # Segment
         gpx_segment = gpxpy.gpx.GPXTrackSegment()
@@ -107,7 +120,7 @@ for line in gpx.to_xml():
     outfile.write(line)
 outfile.close()
 
-print("Generated "+args.output)
+print("Skapade "+args.output)
 
 
 

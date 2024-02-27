@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <metadata>
+    <desc>Denna fil med jaktområden används på egen risk!</desc>
+    <author>
+      <name>Outdoor Recreation Sverige</name>
+      <email id="info" domain="fisketavling.nu" />
+    </author>
+    <time>2024-02-27</time>
+  </metadata>
   <trk>
     <name>VS1</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="65.2107629777327" lon="14.6291202798085">
       </trkpt>
@@ -131,8 +138,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS18</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="64.8281796010775" lon="15.1495579780885">
       </trkpt>
@@ -410,8 +416,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS19</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="64.7221802548191" lon="15.3135106309615">
       </trkpt>
@@ -691,8 +696,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS23</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="64.6997458288487" lon="15.7797281641252">
       </trkpt>
@@ -816,8 +820,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS29</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="64.5437037426618" lon="16.1223343206446">
       </trkpt>
@@ -865,8 +868,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS28</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="64.4544525685896" lon="15.5723903709426">
       </trkpt>
@@ -1032,8 +1034,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS24</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="64.7065688042882" lon="16.0030883490341">
       </trkpt>
@@ -1223,8 +1224,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS16</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="64.9419584593" lon="15.3469670528337">
       </trkpt>
@@ -1454,8 +1454,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS21</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="64.8938555440072" lon="15.8683262502863">
       </trkpt>
@@ -1693,8 +1692,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS4</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="65.1069675813127" lon="14.5378973113383">
       </trkpt>
@@ -1814,8 +1812,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS7</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="65.1204843401993" lon="14.8978327932783">
       </trkpt>
@@ -2013,8 +2010,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS8</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="65.1137457132519" lon="15.0502321862404">
       </trkpt>
@@ -2090,8 +2086,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS2</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="65.2474911749269" lon="14.8803208953397">
       </trkpt>
@@ -2297,8 +2292,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS5</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="65.2665882424465" lon="15.0295925104502">
       </trkpt>
@@ -2544,8 +2538,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS6</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="65.1910352760968" lon="14.8668933770522">
       </trkpt>
@@ -2743,8 +2736,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS9</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="65.0365803784526" lon="15.1207475433243">
       </trkpt>
@@ -2940,8 +2932,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS10</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="64.9520534090114" lon="14.8314502881152">
       </trkpt>
@@ -3019,8 +3010,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS12</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="64.9745068232905" lon="14.950551569781">
       </trkpt>
@@ -3140,8 +3130,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS13</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="64.9555290169946" lon="14.8073625745324">
       </trkpt>
@@ -3333,8 +3322,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS3</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="65.1588092650731" lon="14.6624898008403">
       </trkpt>
@@ -3584,8 +3572,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS11</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="64.9922938111967" lon="15.0630354307299">
       </trkpt>
@@ -3713,8 +3700,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS14</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="64.9549836913447" lon="15.3081557148881">
       </trkpt>
@@ -3892,8 +3878,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS15</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="64.9550689778563" lon="15.1257978092367">
       </trkpt>
@@ -4263,8 +4248,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS17</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="64.9182613285427" lon="15.2939575911376">
       </trkpt>
@@ -4666,8 +4650,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS25</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="64.5405466322171" lon="15.8216209332068">
       </trkpt>
@@ -4849,8 +4832,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS20</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="64.9271217145118" lon="15.7024350458759">
       </trkpt>
@@ -4932,8 +4914,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS22</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="64.7954926931425" lon="15.9095528156502">
       </trkpt>
@@ -5097,8 +5078,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS26</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="64.6051270910861" lon="15.7608033249821">
       </trkpt>
@@ -5236,8 +5216,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VS27</name>
-    <desc>Vilhelmina Södra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Södra Sameby</desc>
     <trkseg>
       <trkpt lat="64.4915735123144" lon="15.8224702563246">
       </trkpt>

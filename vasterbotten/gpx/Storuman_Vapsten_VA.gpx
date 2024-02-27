@@ -1,406 +1,300 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <metadata>
+    <desc>Denna fil med jaktområden används på egen risk!</desc>
+    <author>
+      <name>Outdoor Recreation Sverige</name>
+      <email id="info" domain="fisketavling.nu" />
+    </author>
+    <time>2024-02-27</time>
+  </metadata>
   <trk>
     <name>VA20</name>
-    <desc>Vapsten Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vapsten Sameby</desc>
     <trkseg>
-      <trkpt lat="65.1761037586584" lon="16.3808209128482">
+      <trkpt lat="65.1995241432247" lon="16.7059740276561">
       </trkpt>
-      <trkpt lat="65.1709988671771" lon="16.4064024846795">
+      <trkpt lat="65.192187878612" lon="16.70207112143">
       </trkpt>
-      <trkpt lat="65.1716366965173" lon="16.4095078241343">
+      <trkpt lat="65.1893857785928" lon="16.7004125525046">
       </trkpt>
-      <trkpt lat="65.173158516434" lon="16.4080088709915">
+      <trkpt lat="65.1792471892064" lon="16.6948553548421">
       </trkpt>
-      <trkpt lat="65.1737980389486" lon="16.4095702901406">
+      <trkpt lat="65.1736322409513" lon="16.6925709143083">
       </trkpt>
-      <trkpt lat="65.1753136634347" lon="16.4096154175895">
+      <trkpt lat="65.1693235888873" lon="16.6893122562493">
       </trkpt>
-      <trkpt lat="65.1759448618146" lon="16.4132359815551">
+      <trkpt lat="65.1499016931992" lon="16.6797954634477">
       </trkpt>
-      <trkpt lat="65.1752884229681" lon="16.4147599702841">
+      <trkpt lat="65.1382556436208" lon="16.672655055076">
       </trkpt>
-      <trkpt lat="65.1744038759405" lon="16.4183350232879">
+      <trkpt lat="65.1404553981271" lon="16.6676015103561">
       </trkpt>
-      <trkpt lat="65.174384664227" lon="16.4219379165791">
+      <trkpt lat="65.1442290754599" lon="16.6538725105758">
       </trkpt>
-      <trkpt lat="65.175243756814" lon="16.4235075209031">
+      <trkpt lat="65.1421761571343" lon="16.6368319268347">
       </trkpt>
-      <trkpt lat="65.1830371027837" lon="16.4237395522374">
+      <trkpt lat="65.1415830659991" lon="16.6280729704745">
       </trkpt>
-      <trkpt lat="65.1840330055744" lon="16.3980339618134">
+      <trkpt lat="65.1401452385375" lon="16.6161985679324">
       </trkpt>
-      <trkpt lat="65.1761037586584" lon="16.3808209128482">
+      <trkpt lat="65.1345855420218" lon="16.5697501923132">
+      </trkpt>
+      <trkpt lat="65.1333730857584" lon="16.5558353036956">
+      </trkpt>
+      <trkpt lat="65.1325453985222" lon="16.5491251465283">
+      </trkpt>
+      <trkpt lat="65.1486556551777" lon="16.5342619954081">
+      </trkpt>
+      <trkpt lat="65.1659946755637" lon="16.5312525270798">
+      </trkpt>
+      <trkpt lat="65.1702967662139" lon="16.5365462816371">
+      </trkpt>
+      <trkpt lat="65.1737508766058" lon="16.5382069465211">
+      </trkpt>
+      <trkpt lat="65.1774101188823" lon="16.5419357033563">
+      </trkpt>
+      <trkpt lat="65.1795638163908" lon="16.5435533769765">
+      </trkpt>
+      <trkpt lat="65.1801993907664" lon="16.5456332432618">
+      </trkpt>
+      <trkpt lat="65.1838609895653" lon="16.5488490513916">
+      </trkpt>
+      <trkpt lat="65.1910679008" lon="16.53880236068">
+      </trkpt>
+      <trkpt lat="65.1997852419475" lon="16.5287994138718">
+      </trkpt>
+      <trkpt lat="65.1984967975603" lon="16.5272105702812">
+      </trkpt>
+      <trkpt lat="65.1912326012295" lon="16.5099721844239">
+      </trkpt>
+      <trkpt lat="65.1863122052856" lon="16.4995122864638">
+      </trkpt>
+      <trkpt lat="65.1805464676627" lon="16.4854276599715">
+      </trkpt>
+      <trkpt lat="65.1771193882109" lon="16.4786259440634">
+      </trkpt>
+      <trkpt lat="65.1749810234765" lon="16.4734133174196">
+      </trkpt>
+      <trkpt lat="65.1706970103772" lon="16.4645291646963">
+      </trkpt>
+      <trkpt lat="65.1692016249052" lon="16.4608814269545">
+      </trkpt>
+      <trkpt lat="65.1670671350942" lon="16.4556692285763">
+      </trkpt>
+      <trkpt lat="65.1649279673555" lon="16.4504604254737">
+      </trkpt>
+      <trkpt lat="65.1627421906969" lon="16.4539931666189">
+      </trkpt>
+      <trkpt lat="65.1423783546412" lon="16.4960163915486">
+      </trkpt>
+      <trkpt lat="65.1328260922661" lon="16.5008416178732">
+      </trkpt>
+      <trkpt lat="65.1315161882931" lon="16.5028551608807">
+      </trkpt>
+      <trkpt lat="65.1176035434331" lon="16.5126657875935">
+      </trkpt>
+      <trkpt lat="65.1126072499233" lon="16.515580005814">
+      </trkpt>
+      <trkpt lat="65.1076039727918" lon="16.5190064268087">
+      </trkpt>
+      <trkpt lat="65.1130248450008" lon="16.5551237153252">
+      </trkpt>
+      <trkpt lat="65.1144753384147" lon="16.5654421139611">
+      </trkpt>
+      <trkpt lat="65.0983642976298" lon="16.6146482765271">
+      </trkpt>
+      <trkpt lat="65.0940373254764" lon="16.614487691514">
+      </trkpt>
+      <trkpt lat="65.0903477322935" lon="16.615888612277">
+      </trkpt>
+      <trkpt lat="65.0801609268336" lon="16.6170488974516">
+      </trkpt>
+      <trkpt lat="65.0788494667244" lon="16.6190527511425">
+      </trkpt>
+      <trkpt lat="65.07018266931" lon="16.6202683858076">
+      </trkpt>
+      <trkpt lat="65.064327272893" lon="16.6215877780552">
+      </trkpt>
+      <trkpt lat="65.0585336275332" lon="16.6131728859998">
+      </trkpt>
+      <trkpt lat="65.0514699198601" lon="16.6006191300476">
+      </trkpt>
+      <trkpt lat="65.0493249321355" lon="16.5974678426725">
+      </trkpt>
+      <trkpt lat="65.0347520441063" lon="16.5736926160707">
+      </trkpt>
+      <trkpt lat="65.0972443869577" lon="16.4731885599444">
+      </trkpt>
+      <trkpt lat="65.1130747914018" lon="16.4476375753536">
+      </trkpt>
+      <trkpt lat="65.1177485624272" lon="16.4400851478224">
+      </trkpt>
+      <trkpt lat="65.1341726195099" lon="16.4104605532421">
+      </trkpt>
+      <trkpt lat="65.1299631450062" lon="16.3861929238228">
+      </trkpt>
+      <trkpt lat="65.1437056989383" lon="16.364484935703">
+      </trkpt>
+      <trkpt lat="65.1443456786226" lon="16.3660435748513">
+      </trkpt>
+      <trkpt lat="65.1452053614633" lon="16.3676095947918">
+      </trkpt>
+      <trkpt lat="65.1458613238981" lon="16.3660861613692">
+      </trkpt>
+      <trkpt lat="65.1452213448574" lon="16.3645274321291">
+      </trkpt>
+      <trkpt lat="65.1552681875331" lon="16.3457808654779">
+      </trkpt>
+      <trkpt lat="65.1621460908357" lon="16.3681916574332">
+      </trkpt>
+      <trkpt lat="65.1716611556191" lon="16.3527439122524">
+      </trkpt>
+      <trkpt lat="65.1724055190936" lon="16.3515324458361">
+      </trkpt>
+      <trkpt lat="65.1778006544746" lon="16.3427712659634">
+      </trkpt>
+      <trkpt lat="65.1827375404904" lon="16.3516701105946">
+      </trkpt>
+      <trkpt lat="65.1842430817341" lon="16.3532565886917">
+      </trkpt>
+      <trkpt lat="65.1855359741594" lon="16.3553511560558">
+      </trkpt>
+      <trkpt lat="65.1876860124154" lon="16.3584991129554">
+      </trkpt>
+      <trkpt lat="65.1919820553506" lon="16.3658266803369">
+      </trkpt>
+      <trkpt lat="65.2027245481165" lon="16.3831227927721">
+      </trkpt>
+      <trkpt lat="65.2143222901691" lon="16.4025196633346">
+      </trkpt>
+      <trkpt lat="65.2171215128967" lon="16.4056949332004">
+      </trkpt>
+      <trkpt lat="65.2242013658283" lon="16.4182754993665">
+      </trkpt>
+      <trkpt lat="65.2257106733432" lon="16.4198683596031">
+      </trkpt>
+      <trkpt lat="65.226350065081" lon="16.4214331696863">
+      </trkpt>
+      <trkpt lat="65.2278572338018" lon="16.4235394202681">
+      </trkpt>
+      <trkpt lat="65.229362000194" lon="16.4251326965549">
+      </trkpt>
+      <trkpt lat="65.2306623784063" lon="16.4251711197059">
+      </trkpt>
+      <trkpt lat="65.2315341501269" lon="16.4236519021397">
+      </trkpt>
+      <trkpt lat="65.232152201139" lon="16.4303728388557">
+      </trkpt>
+      <trkpt lat="65.2342984906295" lon="16.4340483193003">
+      </trkpt>
+      <trkpt lat="65.2400975527472" lon="16.4424800213494">
+      </trkpt>
+      <trkpt lat="65.2499634305563" lon="16.4603282085386">
+      </trkpt>
+      <trkpt lat="65.2607062510246" lon="16.4761543135706">
+      </trkpt>
+      <trkpt lat="65.2750774138545" lon="16.5003739449047">
+      </trkpt>
+      <trkpt lat="65.2757180432223" lon="16.5024631023192">
+      </trkpt>
+      <trkpt lat="65.2830118331924" lon="16.5145866203023">
+      </trkpt>
+      <trkpt lat="65.2851657905713" lon="16.5162085832118">
+      </trkpt>
+      <trkpt lat="65.2885886248273" lon="16.5235599993928">
+      </trkpt>
+      <trkpt lat="65.2928789763408" lon="16.5304254303247">
+      </trkpt>
+      <trkpt lat="65.2872735062754" lon="16.5266153699336">
+      </trkpt>
+      <trkpt lat="65.2835704074586" lon="16.5301058390821">
+      </trkpt>
+      <trkpt lat="65.2814046762176" lon="16.5300330816175">
+      </trkpt>
+      <trkpt lat="65.2792095607628" lon="16.5351249787944">
+      </trkpt>
+      <trkpt lat="65.2776864973175" lon="16.5366225842603">
+      </trkpt>
+      <trkpt lat="65.2754613868658" lon="16.5468744337048">
+      </trkpt>
+      <trkpt lat="65.2747588332125" lon="16.5556310585039">
+      </trkpt>
+      <trkpt lat="65.2740784006885" lon="16.5607735407063">
+      </trkpt>
+      <trkpt lat="65.2599303432729" lon="16.6082834654587">
+      </trkpt>
+      <trkpt lat="65.2585979690787" lon="16.6133964922081">
+      </trkpt>
+      <trkpt lat="65.257082442399" lon="16.6133395168602">
+      </trkpt>
+      <trkpt lat="65.2549378104366" lon="16.6101626048612">
+      </trkpt>
+      <trkpt lat="65.2448195460946" lon="16.6010164006882">
+      </trkpt>
+      <trkpt lat="65.2327708278196" lon="16.5887137721832">
+      </trkpt>
+      <trkpt lat="65.231884841348" lon="16.5917749149268">
+      </trkpt>
+      <trkpt lat="65.2305656367826" lon="16.5953361414625">
+      </trkpt>
+      <trkpt lat="65.2296767988969" lon="16.5989125759972">
+      </trkpt>
+      <trkpt lat="65.2239170913436" lon="16.6193242590827">
+      </trkpt>
+      <trkpt lat="65.2216863564488" lon="16.6295509889932">
+      </trkpt>
+      <trkpt lat="65.220812516472" lon="16.6310628443036">
+      </trkpt>
+      <trkpt lat="65.2163734707562" lon="16.6479044868712">
+      </trkpt>
+      <trkpt lat="65.2141495504233" lon="16.6565795102481">
+      </trkpt>
+      <trkpt lat="65.2134906541038" lon="16.6580996356449">
+      </trkpt>
+      <trkpt lat="65.2106160056788" lon="16.6667463964134">
+      </trkpt>
+      <trkpt lat="65.20617297406" lon="16.6835755596863">
+      </trkpt>
+      <trkpt lat="65.2046062415863" lon="16.6907255119356">
+      </trkpt>
+      <trkpt lat="65.1995241432247" lon="16.7059740276561">
       </trkpt>
     </trkseg>
   </trk>
   <trk>
     <name>VA10</name>
-    <desc>Vapsten Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vapsten Sameby</desc>
     <trkseg>
       <trkpt lat="65.506474559923" lon="15.6201911651071">
       </trkpt>
-      <trkpt lat="65.5036602456565" lon="15.6254018087647">
+      <trkpt lat="65.513830810713" lon="15.6009028049547">
       </trkpt>
-      <trkpt lat="65.5058280118811" lon="15.6269641021636">
+      <trkpt lat="65.5166421024194" lon="15.5941257707832">
       </trkpt>
-      <trkpt lat="65.5073437013575" lon="15.6269645056312">
+      <trkpt lat="65.5209770758002" lon="15.6029815185705">
       </trkpt>
-      <trkpt lat="65.5086436235861" lon="15.6342594719323">
+      <trkpt lat="65.5253063805943" lon="15.6113212941261">
       </trkpt>
-      <trkpt lat="65.5064777146634" lon="15.6342602246575">
+      <trkpt lat="65.524660802713" lon="15.6149694889574">
       </trkpt>
-      <trkpt lat="65.5030158434307" lon="15.634258704098">
+      <trkpt lat="65.5237954127119" lon="15.6186217853333">
       </trkpt>
-      <trkpt lat="65.4978203161797" lon="15.6358211039695">
+      <trkpt lat="65.5216287667576" lon="15.625398973424">
       </trkpt>
-      <trkpt lat="65.4950059265715" lon="15.6373809991122">
+      <trkpt lat="65.520332631638" lon="15.6290480170545">
       </trkpt>
-      <trkpt lat="65.4906736315269" lon="15.6410260205549">
+      <trkpt lat="65.5173003957886" lon="15.6321759343843">
       </trkpt>
-      <trkpt lat="65.4891618666656" lon="15.6446685994456">
+      <trkpt lat="65.5166525531025" lon="15.6342607690375">
       </trkpt>
-      <trkpt lat="65.4891607112886" lon="15.6394619882136">
+      <trkpt lat="65.515138973657" lon="15.6321768312042">
       </trkpt>
-      <trkpt lat="65.489161142324" lon="15.6358181617473">
+      <trkpt lat="65.5129730635563" lon="15.6321750559439">
       </trkpt>
-      <trkpt lat="65.4906753727496" lon="15.6306094682524">
+      <trkpt lat="65.5116736640649" lon="15.625400361567">
       </trkpt>
-      <trkpt lat="65.4906711067065" lon="15.6269654616962">
-      </trkpt>
-      <trkpt lat="65.4900216611817" lon="15.6165509292341">
-      </trkpt>
-      <trkpt lat="65.4906679415059" lon="15.6134258655167">
-      </trkpt>
-      <trkpt lat="65.4906701973526" lon="15.6082189241523">
-      </trkpt>
-      <trkpt lat="65.4900151690876" lon="15.604574539501">
-      </trkpt>
-      <trkpt lat="65.4900171209926" lon="15.5993677279002">
-      </trkpt>
-      <trkpt lat="65.4891437958476" lon="15.5905160882826">
-      </trkpt>
-      <trkpt lat="65.4884950409108" lon="15.585309545455">
-      </trkpt>
-      <trkpt lat="65.4878414161726" lon="15.5769805601762">
-      </trkpt>
-      <trkpt lat="65.4878346989377" lon="15.5696906234169">
-      </trkpt>
-      <trkpt lat="65.4928213343944" lon="15.5785323053088">
-      </trkpt>
-      <trkpt lat="65.4934725040276" lon="15.5821764656919">
-      </trkpt>
-      <trkpt lat="65.4971572252492" lon="15.5905039561156">
-      </trkpt>
-      <trkpt lat="65.499321492065" lon="15.595710944816">
-      </trkpt>
-      <trkpt lat="65.5014845640287" lon="15.5904979392338">
-      </trkpt>
-      <trkpt lat="65.5094848367902" lon="15.5696431761118">
-      </trkpt>
-      <trkpt lat="65.4985982773529" lon="15.4936146593797">
-      </trkpt>
-      <trkpt lat="65.4977264700394" lon="15.48841132391">
-      </trkpt>
-      <trkpt lat="65.4998712110518" lon="15.4743358164055">
-      </trkpt>
-      <trkpt lat="65.5007331351302" lon="15.4706848048585">
-      </trkpt>
-      <trkpt lat="65.5035395458876" lon="15.4623308090343">
-      </trkpt>
-      <trkpt lat="65.5041850239763" lon="15.4602427719767">
-      </trkpt>
-      <trkpt lat="65.5085056987867" lon="15.4534407793279">
-      </trkpt>
-      <trkpt lat="65.5093747889415" lon="15.4549984653614">
-      </trkpt>
-      <trkpt lat="65.5093922441228" lon="15.4706303209089">
-      </trkpt>
-      <trkpt lat="65.5143743756127" lon="15.4726871871209">
-      </trkpt>
-      <trkpt lat="65.5143673056057" lon="15.4674728891759">
-      </trkpt>
-      <trkpt lat="65.5143636013329" lon="15.4638255666384">
-      </trkpt>
-      <trkpt lat="65.5150102818787" lon="15.4622581369291">
-      </trkpt>
-      <trkpt lat="65.5150028596176" lon="15.457046417698">
-      </trkpt>
-      <trkpt lat="65.5137104978717" lon="15.4586171660411">
-      </trkpt>
-      <trkpt lat="65.5137029506744" lon="15.4534057075115">
-      </trkpt>
-      <trkpt lat="65.5143454370263" lon="15.4481880415442">
-      </trkpt>
-      <trkpt lat="65.5165034279112" lon="15.4429625480554">
-      </trkpt>
-      <trkpt lat="65.5171498923926" lon="15.4413944739795">
-      </trkpt>
-      <trkpt lat="65.5186567470265" lon="15.4377335522975">
-      </trkpt>
-      <trkpt lat="65.5186523275428" lon="15.4340856374717">
-      </trkpt>
-      <trkpt lat="65.5214600412743" lon="15.4288514229444">
-      </trkpt>
-      <trkpt lat="65.5236220270819" lon="15.4272688116213">
-      </trkpt>
-      <trkpt lat="65.5244880590919" lon="15.4256994217062">
-      </trkpt>
-      <trkpt lat="65.526648696524" lon="15.4235946986033">
-      </trkpt>
-      <trkpt lat="65.5301152088945" lon="15.4272204965233">
-      </trkpt>
-      <trkpt lat="65.5322940079768" lon="15.4360702416631">
-      </trkpt>
-      <trkpt lat="65.5338090612008" lon="15.4339722528015">
-      </trkpt>
-      <trkpt lat="65.5353208868731" lon="15.4323959249112">
-      </trkpt>
-      <trkpt lat="65.5381279515149" lon="15.4287239341633">
-      </trkpt>
-      <trkpt lat="65.5424763379135" lon="15.4391253868501">
-      </trkpt>
-      <trkpt lat="65.5518122176575" lon="15.4599355908502">
-      </trkpt>
-      <trkpt lat="65.5561258849113" lon="15.4463343342896">
-      </trkpt>
-      <trkpt lat="65.5619482275589" lon="15.4321953750915">
-      </trkpt>
-      <trkpt lat="65.5656166253602" lon="15.4232905825182">
-      </trkpt>
-      <trkpt lat="65.5669082787934" lon="15.4180575109388">
-      </trkpt>
-      <trkpt lat="65.5742355956729" lon="15.3991901747601">
-      </trkpt>
-      <trkpt lat="65.5776825111663" lon="15.3887119145912">
-      </trkpt>
-      <trkpt lat="65.5806878651212" lon="15.3745733197447">
-      </trkpt>
-      <trkpt lat="65.5813231175473" lon="15.3677747352243">
-      </trkpt>
-      <trkpt lat="65.5828327275158" lon="15.3656688955791">
-      </trkpt>
-      <trkpt lat="65.5841223894086" lon="15.3604295124585">
-      </trkpt>
-      <trkpt lat="65.5834720651757" lon="15.3588694581402">
-      </trkpt>
-      <trkpt lat="65.5849769057554" lon="15.355194437205">
-      </trkpt>
-      <trkpt lat="65.5877655055305" lon="15.3415774637882">
-      </trkpt>
-      <trkpt lat="65.5905512285719" lon="15.3274319272858">
-      </trkpt>
-      <trkpt lat="65.5935531588288" lon="15.3153740831636">
-      </trkpt>
-      <trkpt lat="65.5963364378391" lon="15.3012226050204">
-      </trkpt>
-      <trkpt lat="65.5991472614361" lon="15.2996175878882">
-      </trkpt>
-      <trkpt lat="65.6043374057374" lon="15.2974614644021">
-      </trkpt>
-      <trkpt lat="65.6099589481225" lon="15.2942492750742">
-      </trkpt>
-      <trkpt lat="65.6164440890526" lon="15.2905032205626">
-      </trkpt>
-      <trkpt lat="65.6179605562823" lon="15.2920545564071">
-      </trkpt>
-      <trkpt lat="65.618609928177" lon="15.2904765267113">
-      </trkpt>
-      <trkpt lat="65.6194700326609" lon="15.2888942237727">
-      </trkpt>
-      <trkpt lat="65.6222654638516" lon="15.2815297349445">
-      </trkpt>
-      <trkpt lat="65.6552104956489" lon="15.2150600814361">
-      </trkpt>
-      <trkpt lat="65.6846825822016" lon="15.154780248648">
-      </trkpt>
-      <trkpt lat="65.6874805212361" lon="15.1494823006904">
-      </trkpt>
-      <trkpt lat="65.6904866677907" lon="15.1426056093169">
-      </trkpt>
-      <trkpt lat="65.6830751171403" lon="15.1285809811368">
-      </trkpt>
-      <trkpt lat="65.6817558059776" lon="15.1253577709301">
-      </trkpt>
-      <trkpt lat="65.6830637911532" lon="15.1250324299694">
-      </trkpt>
-      <trkpt lat="65.6845813482783" lon="15.1254439905574">
-      </trkpt>
-      <trkpt lat="65.6880474898647" lon="15.1263865010118">
-      </trkpt>
-      <trkpt lat="65.6919274252058" lon="15.1215866302139">
-      </trkpt>
-      <trkpt lat="65.6927781571526" lon="15.1163218471594">
-      </trkpt>
-      <trkpt lat="65.6953645877363" lon="15.1131214094376">
-      </trkpt>
-      <trkpt lat="65.6996940053671" lon="15.1135606566196">
-      </trkpt>
-      <trkpt lat="65.7083159029428" lon="15.1034134112783">
-      </trkpt>
-      <trkpt lat="65.7124297490709" lon="15.1028034791767">
-      </trkpt>
-      <trkpt lat="65.7137078435234" lon="15.0969994385216">
-      </trkpt>
-      <trkpt lat="65.715876417216" lon="15.0985301664779">
-      </trkpt>
-      <trkpt lat="65.7176043962242" lon="15.0969198667757">
-      </trkpt>
-      <trkpt lat="65.7186772831791" lon="15.0942707577498">
-      </trkpt>
-      <trkpt lat="65.724757444111" lon="15.0999242050064">
-      </trkpt>
-      <trkpt lat="65.7256265309163" lon="15.1036213292655">
-      </trkpt>
-      <trkpt lat="65.7257032702651" lon="15.1225013911055">
-      </trkpt>
-      <trkpt lat="65.7263959437145" lon="15.1351005433196">
-      </trkpt>
-      <trkpt lat="65.7264464113149" lon="15.1487627065312">
-      </trkpt>
-      <trkpt lat="65.7273253817302" lon="15.1540005357274">
-      </trkpt>
-      <trkpt lat="65.727341043328" lon="15.1576776312328">
-      </trkpt>
-      <trkpt lat="65.7251951744272" lon="15.1645492059171">
-      </trkpt>
-      <trkpt lat="65.7194044977786" lon="15.1804140067805">
-      </trkpt>
-      <trkpt lat="65.7187478421268" lon="15.1788477371422">
-      </trkpt>
-      <trkpt lat="65.7178889020436" lon="15.1804397715925">
-      </trkpt>
-      <trkpt lat="65.7187584317297" lon="15.1825264624285">
-      </trkpt>
-      <trkpt lat="65.7151106481398" lon="15.1930943172027">
-      </trkpt>
-      <trkpt lat="65.7129613816748" lon="15.1983806795958">
-      </trkpt>
-      <trkpt lat="65.7114583017733" lon="15.201557606418">
-      </trkpt>
-      <trkpt lat="65.6983420084991" lon="15.2353814619331">
-      </trkpt>
-      <trkpt lat="65.6887722895448" lon="15.2513770997539">
-      </trkpt>
-      <trkpt lat="65.6711651040191" lon="15.2763613644256">
-      </trkpt>
-      <trkpt lat="65.6720868392057" lon="15.3186182957791">
-      </trkpt>
-      <trkpt lat="65.6744081605572" lon="15.3647413295184">
-      </trkpt>
-      <trkpt lat="65.6700930788693" lon="15.3736999008296">
-      </trkpt>
-      <trkpt lat="65.6685818968271" lon="15.3752878568312">
-      </trkpt>
-      <trkpt lat="65.6672918278398" lon="15.378970026168">
-      </trkpt>
-      <trkpt lat="65.6636203273719" lon="15.3858183362731">
-      </trkpt>
-      <trkpt lat="65.6614645637831" lon="15.3895077458657">
-      </trkpt>
-      <trkpt lat="65.6592987244846" lon="15.3895289492527">
-      </trkpt>
-      <trkpt lat="65.6564826803424" lon="15.3895551564563">
-      </trkpt>
-      <trkpt lat="65.6512900349853" lon="15.3896032128273">
-      </trkpt>
-      <trkpt lat="65.6491241853278" lon="15.3896216814761">
-      </trkpt>
-      <trkpt lat="65.6484782725117" lon="15.3911990190122">
-      </trkpt>
-      <trkpt lat="65.6478237828761" lon="15.3896344046134">
-      </trkpt>
-      <trkpt lat="65.646308137375" lon="15.3896478647195">
-      </trkpt>
-      <trkpt lat="65.6463181263469" lon="15.3933163379402">
-      </trkpt>
-      <trkpt lat="65.6456676908217" lon="15.3948934840383">
-      </trkpt>
-      <trkpt lat="65.6456775461589" lon="15.3985591538693">
-      </trkpt>
-      <trkpt lat="65.6443417638584" lon="15.3970840055356">
-      </trkpt>
-      <trkpt lat="65.6448024801012" lon="15.3933295820605">
-      </trkpt>
-      <trkpt lat="65.6435020764949" lon="15.3933421166838">
-      </trkpt>
-      <trkpt lat="65.6426309387916" lon="15.3912544748976">
-      </trkpt>
-      <trkpt lat="65.6419809260663" lon="15.3896874240609">
-      </trkpt>
-      <trkpt lat="65.6318063708958" lon="15.3897827239371">
-      </trkpt>
-      <trkpt lat="65.6305059580236" lon="15.3897927139566">
-      </trkpt>
-      <trkpt lat="65.6296556339618" lon="15.3987020251437">
-      </trkpt>
-      <trkpt lat="65.6275215920631" lon="15.4159962416242">
-      </trkpt>
-      <trkpt lat="65.626884970437" lon="15.4249005170654">
-      </trkpt>
-      <trkpt lat="65.6253893488094" lon="15.4385215207163">
-      </trkpt>
-      <trkpt lat="65.6247514090565" lon="15.4474245168386">
-      </trkpt>
-      <trkpt lat="65.6232474946908" lon="15.4563305905195">
-      </trkpt>
-      <trkpt lat="65.622608296343" lon="15.4631406959989">
-      </trkpt>
-      <trkpt lat="65.6198297951504" lon="15.4908931331255">
-      </trkpt>
-      <trkpt lat="65.6167984728227" lon="15.490908205945">
-      </trkpt>
-      <trkpt lat="65.6133334098192" lon="15.4893582689924">
-      </trkpt>
-      <trkpt lat="65.6081362158753" lon="15.4893863469136">
-      </trkpt>
-      <trkpt lat="65.6016430829253" lon="15.4894220616065">
-      </trkpt>
-      <trkpt lat="65.6016354110154" lon="15.4857598489911">
-      </trkpt>
-      <trkpt lat="65.5938430229409" lon="15.4842352336821">
-      </trkpt>
-      <trkpt lat="65.5938462412738" lon="15.4878936942278">
-      </trkpt>
-      <trkpt lat="65.5858374292319" lon="15.4879374479824">
-      </trkpt>
-      <trkpt lat="65.5830169462312" lon="15.4858617166074">
-      </trkpt>
-      <trkpt lat="65.5821558850946" lon="15.4879580746338">
-      </trkpt>
-      <trkpt lat="65.5815057623656" lon="15.4858694752168">
-      </trkpt>
-      <trkpt lat="65.5793398852873" lon="15.4858825782682">
-      </trkpt>
-      <trkpt lat="65.5790284943925" lon="15.4892178124162">
-      </trkpt>
-      <trkpt lat="65.577824124509" lon="15.4879812234162">
-      </trkpt>
-      <trkpt lat="65.5734924539163" lon="15.4859138761071">
-      </trkpt>
-      <trkpt lat="65.5613682698119" lon="15.4844145599923">
-      </trkpt>
-      <trkpt lat="65.551840423903" lon="15.4829006631552">
-      </trkpt>
-      <trkpt lat="65.54837858881" lon="15.4829192376794">
-      </trkpt>
-      <trkpt lat="65.5475119736712" lon="15.48449087357">
-      </trkpt>
-      <trkpt lat="65.5447068352562" lon="15.4897242833169">
-      </trkpt>
-      <trkpt lat="65.5388763560765" lon="15.5069726548836">
-      </trkpt>
-      <trkpt lat="65.5332622713781" lon="15.5210800732558">
-      </trkpt>
-      <trkpt lat="65.5073320733087" lon="15.5904901701916">
-      </trkpt>
-      <trkpt lat="65.5043040707556" lon="15.5993518513105">
-      </trkpt>
-      <trkpt lat="65.5008423204719" lon="15.6061274010243">
-      </trkpt>
-      <trkpt lat="65.5043091546281" lon="15.613417036133">
+      <trkpt lat="65.5086404684367" lon="15.6201892462543">
       </trkpt>
       <trkpt lat="65.506474559923" lon="15.6201911651071">
       </trkpt>
@@ -408,8 +302,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VA19</name>
-    <desc>Vapsten Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vapsten Sameby</desc>
     <trkseg>
       <trkpt lat="65.4826139836442" lon="15.7831394456739">
       </trkpt>
@@ -563,8 +456,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VA12</name>
-    <desc>Vapsten Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vapsten Sameby</desc>
     <trkseg>
       <trkpt lat="65.4736008850874" lon="15.2241777192467">
       </trkpt>
@@ -760,8 +652,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VA18</name>
-    <desc>Vapsten Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vapsten Sameby</desc>
     <trkseg>
       <trkpt lat="65.476050502282" lon="15.3289065044676">
       </trkpt>
@@ -829,8 +720,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VA17</name>
-    <desc>Vapsten Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vapsten Sameby</desc>
     <trkseg>
       <trkpt lat="65.5169520045981" lon="15.3114552935285">
       </trkpt>
@@ -904,8 +794,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VA11</name>
-    <desc>Vapsten Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vapsten Sameby</desc>
     <trkseg>
       <trkpt lat="65.5844193185197" lon="15.1461555304564">
       </trkpt>
@@ -985,8 +874,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VA15</name>
-    <desc>Vapsten Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vapsten Sameby</desc>
     <trkseg>
       <trkpt lat="65.4351096299732" lon="14.6376851652787">
       </trkpt>
@@ -1020,25 +908,143 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VA2</name>
-    <desc>Vapsten Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vapsten Sameby</desc>
     <trkseg>
-      <trkpt lat="65.7201143361077" lon="14.7837755728392">
+      <trkpt lat="65.7425227640362" lon="14.859260161917">
       </trkpt>
-      <trkpt lat="65.7090014773238" lon="14.7876396143821">
+      <trkpt lat="65.741900630685" lon="14.8645354391789">
       </trkpt>
-      <trkpt lat="65.7109725372677" lon="14.8363430808214">
+      <trkpt lat="65.7412589556137" lon="14.8666575773146">
       </trkpt>
-      <trkpt lat="65.7222468336625" lon="14.8347387503692">
+      <trkpt lat="65.7332607243773" lon="14.8684714086097">
       </trkpt>
-      <trkpt lat="65.7201143361077" lon="14.7837755728392">
+      <trkpt lat="65.72768202294" lon="14.8660392151298">
+      </trkpt>
+      <trkpt lat="65.7283557218473" lon="14.9477820017327">
+      </trkpt>
+      <trkpt lat="65.7110223154956" lon="15.0137261061168">
+      </trkpt>
+      <trkpt lat="65.7050601076836" lon="15.0134418004887">
+      </trkpt>
+      <trkpt lat="65.7019768140031" lon="15.0121359335446">
+      </trkpt>
+      <trkpt lat="65.7006166931712" lon="14.99724220346">
+      </trkpt>
+      <trkpt lat="65.6999335875114" lon="14.9893292497529">
+      </trkpt>
+      <trkpt lat="65.6982440314267" lon="14.9620305459276">
+      </trkpt>
+      <trkpt lat="65.6982260260032" lon="14.9587828739783">
+      </trkpt>
+      <trkpt lat="65.6974382689967" lon="14.9376955363482">
+      </trkpt>
+      <trkpt lat="65.6899667180409" lon="14.9184625447659">
+      </trkpt>
+      <trkpt lat="65.6892882271801" lon="14.9168622088004">
+      </trkpt>
+      <trkpt lat="65.6885525130411" lon="14.9055226890532">
+      </trkpt>
+      <trkpt lat="65.6905114589593" lon="14.8973362604738">
+      </trkpt>
+      <trkpt lat="65.6911123510799" lon="14.8859492376579">
+      </trkpt>
+      <trkpt lat="65.6897251076493" lon="14.8778804078887">
+      </trkpt>
+      <trkpt lat="65.6849723475703" lon="14.8666873908329">
+      </trkpt>
+      <trkpt lat="65.6802519620601" lon="14.815525429294">
+      </trkpt>
+      <trkpt lat="65.6797235186883" lon="14.7936260516557">
+      </trkpt>
+      <trkpt lat="65.6791982538272" lon="14.7726600788782">
+      </trkpt>
+      <trkpt lat="65.6815954783703" lon="14.757639317776">
+      </trkpt>
+      <trkpt lat="65.6841508574996" lon="14.7379446376909">
+      </trkpt>
+      <trkpt lat="65.6865711079144" lon="14.7266487537801">
+      </trkpt>
+      <trkpt lat="65.6909295330497" lon="14.7176020412549">
+      </trkpt>
+      <trkpt lat="65.6952638796006" lon="14.7052866294452">
+      </trkpt>
+      <trkpt lat="65.7023258589205" lon="14.6979844975709">
+      </trkpt>
+      <trkpt lat="65.7054049850925" lon="14.6983195346742">
+      </trkpt>
+      <trkpt lat="65.710586789753" lon="14.6951366158292">
+      </trkpt>
+      <trkpt lat="65.7125212596981" lon="14.693471586339">
+      </trkpt>
+      <trkpt lat="65.7270586572476" lon="14.7417793870938">
+      </trkpt>
+      <trkpt lat="65.7272499602583" lon="14.7983068356308">
+      </trkpt>
+      <trkpt lat="65.7292318250956" lon="14.803945499126">
+      </trkpt>
+      <trkpt lat="65.7322627823534" lon="14.8038498087661">
+      </trkpt>
+      <trkpt lat="65.7344145602369" lon="14.8016763291848">
+      </trkpt>
+      <trkpt lat="65.737230308242" lon="14.8015887125278">
+      </trkpt>
+      <trkpt lat="65.7387457665898" lon="14.8015379891154">
+      </trkpt>
+      <trkpt lat="65.7387654506848" lon="14.805219281276">
+      </trkpt>
+      <trkpt lat="65.7379059377856" lon="14.8068223605193">
+      </trkpt>
+      <trkpt lat="65.7372695491498" lon="14.8089454225057">
+      </trkpt>
+      <trkpt lat="65.7366297039322" lon="14.8105425480652">
+      </trkpt>
+      <trkpt lat="65.73728563294" lon="14.8121006658725">
+      </trkpt>
+      <trkpt lat="65.7379494280636" lon="14.8141818252069">
+      </trkpt>
+      <trkpt lat="65.7379654038076" lon="14.8173371556334">
+      </trkpt>
+      <trkpt lat="65.7373288687182" lon="14.8194599647928">
+      </trkpt>
+      <trkpt lat="65.7379846894816" lon="14.8210156268733">
+      </trkpt>
+      <trkpt lat="65.7380083700636" lon="14.8246939340337">
+      </trkpt>
+      <trkpt lat="65.7388793621421" lon="14.8262443358562">
+      </trkpt>
+      <trkpt lat="65.7395396149589" lon="14.8278028187018">
+      </trkpt>
+      <trkpt lat="65.7395586489189" lon="14.8314815236231">
+      </trkpt>
+      <trkpt lat="65.7402188484738" lon="14.8330401814602">
+      </trkpt>
+      <trkpt lat="65.7410930830243" lon="14.8351141986776">
+      </trkpt>
+      <trkpt lat="65.7417532456225" lon="14.8366730418059">
+      </trkpt>
+      <trkpt lat="65.7417720663935" lon="14.8403520698722">
+      </trkpt>
+      <trkpt lat="65.7424276922148" lon="14.841911255288">
+      </trkpt>
+      <trkpt lat="65.7433029936082" lon="14.8434623355081">
+      </trkpt>
+      <trkpt lat="65.742450870475" lon="14.8455902174475">
+      </trkpt>
+      <trkpt lat="65.7433216511727" lon="14.8471415903125">
+      </trkpt>
+      <trkpt lat="65.7433447036535" lon="14.8508206853325">
+      </trkpt>
+      <trkpt lat="65.7433599234658" lon="14.8539767022378">
+      </trkpt>
+      <trkpt lat="65.7433783278573" lon="14.8576559745693">
+      </trkpt>
+      <trkpt lat="65.7425227640362" lon="14.859260161917">
       </trkpt>
     </trkseg>
   </trk>
   <trk>
     <name>VA1</name>
-    <desc>Vapsten Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vapsten Sameby</desc>
     <trkseg>
       <trkpt lat="65.7345589769675" lon="14.5916358152895">
       </trkpt>
@@ -1090,8 +1096,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VA3</name>
-    <desc>Vapsten Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vapsten Sameby</desc>
     <trkseg>
       <trkpt lat="65.7224680346734" lon="15.2958287316016">
       </trkpt>
@@ -1109,8 +1114,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VA13</name>
-    <desc>Vapsten Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vapsten Sameby</desc>
     <trkseg>
       <trkpt lat="65.5065133768665" lon="14.5965103877961">
       </trkpt>
@@ -1196,8 +1200,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VA14</name>
-    <desc>Vapsten Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vapsten Sameby</desc>
     <trkseg>
       <trkpt lat="65.4687342629535" lon="14.9188269268371">
       </trkpt>
@@ -1355,8 +1358,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VA4</name>
-    <desc>Vapsten Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vapsten Sameby</desc>
     <trkseg>
       <trkpt lat="65.6843810790965" lon="14.588561647275">
       </trkpt>
@@ -1598,8 +1600,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VA9</name>
-    <desc>Vapsten Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vapsten Sameby</desc>
     <trkseg>
       <trkpt lat="65.5773846341455" lon="14.5200455365873">
       </trkpt>
@@ -1719,8 +1720,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VA16</name>
-    <desc>Vapsten Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vapsten Sameby</desc>
     <trkseg>
       <trkpt lat="65.528527641603" lon="15.3990970644049">
       </trkpt>
@@ -1840,8 +1840,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VA8</name>
-    <desc>Vapsten Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vapsten Sameby</desc>
     <trkseg>
       <trkpt lat="65.7083159029428" lon="15.1034134112783">
       </trkpt>
@@ -2029,8 +2028,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VA7</name>
-    <desc>Vapsten Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vapsten Sameby</desc>
     <trkseg>
       <trkpt lat="65.6170679100132" lon="15.0328352853949">
       </trkpt>
@@ -2214,8 +2212,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VA6</name>
-    <desc>Vapsten Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vapsten Sameby</desc>
     <trkseg>
       <trkpt lat="65.6944948994288" lon="14.9957980009266">
       </trkpt>
@@ -2421,8 +2418,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VA5</name>
-    <desc>Vapsten Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vapsten Sameby</desc>
     <trkseg>
       <trkpt lat="65.7023258589205" lon="14.6979844975709">
       </trkpt>

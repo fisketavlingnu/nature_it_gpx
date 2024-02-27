@@ -26,22 +26,22 @@ KMLFILE=../kml_from_lansstyrelsen/Smavilt_jaktomr_2014_S99.kml
 all:komplett VS VN VA SU RAN GRAN
 
 komplett:
-	@../../scripts/kml2gpx.py -file ${KMLFILE} -output hela_vasterbotten.gpx -description "Alla områden i Västerbotten"
+	@../../scripts/kml2gpx.py -file ${KMLFILE} -output hela_vasterbotten.gpx -area "Alla områden i Västerbotten"
 
 VS:
-	@../../scripts/kml2gpx.py -file ${KMLFILE} -output Vilhelmina_Sodra_VS.gpx -filter VS -description "Vilhelmina Södra Sameby"
+	@../../scripts/kml2gpx.py -file ${KMLFILE} -output Vilhelmina_Sodra_VS.gpx -filter VS -area "Vilhelmina Södra Sameby"
 
 VN:
-	@../../scripts/kml2gpx.py -file ${KMLFILE} -output Vilhelmina_Norra_VN.gpx -filter VN -description "Vilhelmina Norra Sameby"
+	@../../scripts/kml2gpx.py -file ${KMLFILE} -output Vilhelmina_Norra_VN.gpx -filter VN -area "Vilhelmina Norra Sameby"
 
 VA:
-	@../../scripts/kml2gpx.py -file ${KMLFILE} -output Storuman_Vapsten_VA.gpx -filter VA -description "Vapsten Sameby"
+	@../../scripts/kml2gpx.py -file ${KMLFILE} -output Storuman_Vapsten_VA.gpx -filter VA -area "Vapsten Sameby"
 
 SU:
-	@../../scripts/kml2gpx.py -file ${KMLFILE} -output Storuman_Ubmeje_U.gpx -filter U -description "Ubmeje Sameby"
+	@../../scripts/kml2gpx.py -file ${KMLFILE} -output Storuman_Ubmeje_U.gpx -filter U -area "Ubmeje Sameby"
 
 RAN:
-	@../../scripts/kml2gpx.py -file ${KMLFILE} -output Sorsele_Ran_R.gpx -filter R -description "Ran Sameby"
+	@../../scripts/kml2gpx.py -file ${KMLFILE} -output Sorsele_Ran_R.gpx -filter R -area "Ran Sameby"
 
 GRAN:
-	@../../scripts/kml2gpx.py -file ${KMLFILE} -output Sorsele_Gran_G.gpx -filter G -description "Gran Sameby"
+	@../../scripts/kml2gpx.py -file ${KMLFILE} -output Sorsele_Gran_G.gpx -filter G -area "Gran Sameby"

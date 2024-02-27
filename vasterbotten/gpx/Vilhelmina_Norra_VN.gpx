@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <metadata>
+    <desc>Denna fil med jaktområden används på egen risk!</desc>
+    <author>
+      <name>Outdoor Recreation Sverige</name>
+      <email id="info" domain="fisketavling.nu" />
+    </author>
+    <time>2024-02-27</time>
+  </metadata>
   <trk>
     <name>VN3</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.41578696347" lon="14.8141533056186">
       </trkpt>
@@ -259,8 +266,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN9</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.4117613067337" lon="15.2531643874877">
       </trkpt>
@@ -380,8 +386,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN11</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.2668240471236" lon="15.6687679465128">
       </trkpt>
@@ -533,8 +538,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN13</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.3531618390593" lon="15.767872710097">
       </trkpt>
@@ -634,8 +638,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN6</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.3006690692673" lon="14.5852216191745">
       </trkpt>
@@ -795,8 +798,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN12</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.2675938606372" lon="15.5552477416708">
       </trkpt>
@@ -886,8 +888,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN25</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.1631193530431" lon="16.1685510359483">
       </trkpt>
@@ -1077,8 +1078,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN27</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.1334950965414" lon="15.8915547078381">
       </trkpt>
@@ -1406,8 +1406,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN36</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.0174139195012" lon="16.5021868011977">
       </trkpt>
@@ -1441,8 +1440,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN37</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="64.9870103836577" lon="16.5371669419401">
       </trkpt>
@@ -1520,8 +1518,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN32</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="64.8889949379953" lon="16.1070328800267">
       </trkpt>
@@ -1681,8 +1678,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN31</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="64.8705758395811" lon="15.9373017258896">
       </trkpt>
@@ -1724,8 +1720,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN15</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.2598132371755" lon="15.0258268640682">
       </trkpt>
@@ -1909,8 +1904,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN14</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.3223477608907" lon="15.2363069856901">
       </trkpt>
@@ -2114,8 +2108,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN22</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.0936175836821" lon="15.5114865180878">
       </trkpt>
@@ -2303,8 +2296,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN20</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.1000707939349" lon="15.3822155813634">
       </trkpt>
@@ -2416,8 +2408,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN23</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.1502335411657" lon="15.8408283947827">
       </trkpt>
@@ -2809,8 +2800,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN17</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.1667089536791" lon="15.3608183622401">
       </trkpt>
@@ -2938,8 +2928,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN19</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.1818195854365" lon="15.4749310244213">
       </trkpt>
@@ -3071,8 +3060,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN21</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.1247622491819" lon="15.4551829849301">
       </trkpt>
@@ -3174,8 +3162,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN16</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.2430448469159" lon="15.3569134850735">
       </trkpt>
@@ -3269,8 +3256,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN10</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.3948137060843" lon="15.4292950360245">
       </trkpt>
@@ -3372,8 +3358,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN18</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.2505413529123" lon="15.5464804199297">
       </trkpt>
@@ -3699,8 +3684,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN4</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.4271186607244" lon="14.9100424886823">
       </trkpt>
@@ -3872,8 +3856,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN2</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.4301929079259" lon="14.5920222599711">
       </trkpt>
@@ -4013,8 +3996,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN1</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.3812678498992" lon="14.5485776049867">
       </trkpt>
@@ -4128,8 +4110,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN8</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.3395842266258" lon="14.9404315629181">
       </trkpt>
@@ -4347,8 +4328,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN7</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.3095010967639" lon="14.7515589601486">
       </trkpt>
@@ -4510,8 +4490,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN5</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.176700463966" lon="14.570587244082">
       </trkpt>
@@ -4601,25 +4580,279 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN24</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
-      <trkpt lat="65.1956276838028" lon="15.9415118355982">
+      <trkpt lat="65.2236548661929" lon="15.9599817102428">
       </trkpt>
-      <trkpt lat="65.1807080680392" lon="15.990267428913">
+      <trkpt lat="65.2227750533637" lon="15.9651254374038">
       </trkpt>
-      <trkpt lat="65.1972127992946" lon="16.0193003663078">
+      <trkpt lat="65.2236389026266" lon="15.9666803974975">
       </trkpt>
-      <trkpt lat="65.2121428913521" lon="15.9695330336402">
+      <trkpt lat="65.2236305251013" lon="15.9702902591044">
       </trkpt>
-      <trkpt lat="65.1956276838028" lon="15.9415118355982">
+      <trkpt lat="65.2236265483352" lon="15.9738974746788">
+      </trkpt>
+      <trkpt lat="65.2220855286868" lon="15.9841877975691">
+      </trkpt>
+      <trkpt lat="65.2214227339411" lon="15.9908788974497">
+      </trkpt>
+      <trkpt lat="65.2199089002572" lon="15.9893134409129">
+      </trkpt>
+      <trkpt lat="65.2192656459806" lon="15.9872411834937">
+      </trkpt>
+      <trkpt lat="65.2183893853212" lon="15.992383182389">
+      </trkpt>
+      <trkpt lat="65.2205482927799" lon="15.9944742817916">
+      </trkpt>
+      <trkpt lat="65.2198941554695" lon="15.99755806683">
+      </trkpt>
+      <trkpt lat="65.2192256018921" lon="16.0047638553921">
+      </trkpt>
+      <trkpt lat="65.2205081064113" lon="16.0114848251793">
+      </trkpt>
+      <trkpt lat="65.2198462690292" lon="16.0166279710309">
+      </trkpt>
+      <trkpt lat="65.2191938649744" lon="16.0181642948175">
+      </trkpt>
+      <trkpt lat="65.2161355255292" lon="16.030489153055">
+      </trkpt>
+      <trkpt lat="65.213969578018" lon="16.0304547935388">
+      </trkpt>
+      <trkpt lat="65.2096036585287" lon="16.0437843162882">
+      </trkpt>
+      <trkpt lat="65.2104658701945" lon="16.0458591753234">
+      </trkpt>
+      <trkpt lat="65.2111136332998" lon="16.0474140830639">
+      </trkpt>
+      <trkpt lat="65.2089278251932" lon="16.0540785909815">
+      </trkpt>
+      <trkpt lat="65.2073990497151" lon="16.05920481872">
+      </trkpt>
+      <trkpt lat="65.2067453371207" lon="16.0612547385132">
+      </trkpt>
+      <trkpt lat="65.2067355761419" lon="16.0643468942118">
+      </trkpt>
+      <trkpt lat="65.2073750894547" lon="16.0679635053559">
+      </trkpt>
+      <trkpt lat="65.2051891656965" lon="16.0766840949378">
+      </trkpt>
+      <trkpt lat="65.2023489792844" lon="16.0848757298105">
+      </trkpt>
+      <trkpt lat="65.2008332661626" lon="16.0848517887002">
+      </trkpt>
+      <trkpt lat="65.1986718134164" lon="16.084813056348">
+      </trkpt>
+      <trkpt lat="65.1951912941033" lon="16.0899039787279">
+      </trkpt>
+      <trkpt lat="65.1877729095787" lon="16.1088212105683">
+      </trkpt>
+      <trkpt lat="65.1827652424986" lon="16.1190249584303">
+      </trkpt>
+      <trkpt lat="65.1799370533013" lon="16.1225742693472">
+      </trkpt>
+      <trkpt lat="65.1777982517112" lon="16.1137862585816">
+      </trkpt>
+      <trkpt lat="65.1734888874067" lon="16.1070181567341">
+      </trkpt>
+      <trkpt lat="65.182888463774" lon="16.0763073451227">
+      </trkpt>
+      <trkpt lat="65.1749171641394" lon="16.0622797800043">
+      </trkpt>
+      <trkpt lat="65.1736033525463" lon="16.0674037528818">
+      </trkpt>
+      <trkpt lat="65.1631765838936" lon="16.100132575094">
+      </trkpt>
+      <trkpt lat="65.1610967784778" lon="16.0958815531343">
+      </trkpt>
+      <trkpt lat="65.1580223900146" lon="16.092520158474">
+      </trkpt>
+      <trkpt lat="65.1516050046032" lon="16.0915375868285">
+      </trkpt>
+      <trkpt lat="65.1490281159459" lon="16.0925095065472">
+      </trkpt>
+      <trkpt lat="65.1447015497482" lon="16.0950256767404">
+      </trkpt>
+      <trkpt lat="65.1433480156237" lon="16.0940719173246">
+      </trkpt>
+      <trkpt lat="65.140806412952" lon="16.0901961286705">
+      </trkpt>
+      <trkpt lat="65.1374387410517" lon="16.0855691013206">
+      </trkpt>
+      <trkpt lat="65.1347163459376" lon="16.080915433402">
+      </trkpt>
+      <trkpt lat="65.1427175172439" lon="16.0517031501576">
+      </trkpt>
+      <trkpt lat="65.1260037187582" lon="16.0266859838877">
+      </trkpt>
+      <trkpt lat="65.1246441519615" lon="16.0313090863833">
+      </trkpt>
+      <trkpt lat="65.1244505195297" lon="16.0303015211526">
+      </trkpt>
+      <trkpt lat="65.122490837099" lon="16.0295077978739">
+      </trkpt>
+      <trkpt lat="65.1208297042689" lon="16.0292640631428">
+      </trkpt>
+      <trkpt lat="65.1184326219189" lon="16.0261210899823">
+      </trkpt>
+      <trkpt lat="65.1170726460393" lon="16.0149448621419">
+      </trkpt>
+      <trkpt lat="65.1166688803144" lon="16.0075735405866">
+      </trkpt>
+      <trkpt lat="65.1128584411985" lon="16.0009713325892">
+      </trkpt>
+      <trkpt lat="65.1073340212532" lon="15.9956073796787">
+      </trkpt>
+      <trkpt lat="65.1097018654875" lon="15.9934613589964">
+      </trkpt>
+      <trkpt lat="65.1110049043174" lon="15.9914270907847">
+      </trkpt>
+      <trkpt lat="65.1151139500804" lon="15.994050282484">
+      </trkpt>
+      <trkpt lat="65.1166316140556" lon="15.9925307553097">
+      </trkpt>
+      <trkpt lat="65.1194484828898" lon="15.9920554243956">
+      </trkpt>
+      <trkpt lat="65.1207444879507" lon="15.9920724598053">
+      </trkpt>
+      <trkpt lat="65.1222602289837" lon="15.9920936936827">
+      </trkpt>
+      <trkpt lat="65.1235607180282" lon="15.9921107642935">
+      </trkpt>
+      <trkpt lat="65.1246472218133" lon="15.9910987771169">
+      </trkpt>
+      <trkpt lat="65.1257298630082" lon="15.9895728775965">
+      </trkpt>
+      <trkpt lat="65.1272538245284" lon="15.9865110351938">
+      </trkpt>
+      <trkpt lat="65.1309473147986" lon="15.9803985140108">
+      </trkpt>
+      <trkpt lat="65.1316005187728" lon="15.9778385353633">
+      </trkpt>
+      <trkpt lat="65.1326892485042" lon="15.974769925011">
+      </trkpt>
+      <trkpt lat="65.1335632263264" lon="15.971185773439">
+      </trkpt>
+      <trkpt lat="65.133786874849" lon="15.9675921146907">
+      </trkpt>
+      <trkpt lat="65.1340093529835" lon="15.965026314228">
+      </trkpt>
+      <trkpt lat="65.1340170692241" lon="15.9619425836715">
+      </trkpt>
+      <trkpt lat="65.1342399744016" lon="15.9588627496136">
+      </trkpt>
+      <trkpt lat="65.134248582231" lon="15.9547537249104">
+      </trkpt>
+      <trkpt lat="65.13425160023" lon="15.9516726019216">
+      </trkpt>
+      <trkpt lat="65.1342590419497" lon="15.9485888391413">
+      </trkpt>
+      <trkpt lat="65.1340521156214" lon="15.9444760259947">
+      </trkpt>
+      <trkpt lat="65.1336253367987" lon="15.9403621685919">
+      </trkpt>
+      <trkpt lat="65.1336329939382" lon="15.9367645223346">
+      </trkpt>
+      <trkpt lat="65.1334199520058" lon="15.9341937226753">
+      </trkpt>
+      <trkpt lat="65.1334270321609" lon="15.9311127141582">
+      </trkpt>
+      <trkpt lat="65.1332147276215" lon="15.9275140899342">
+      </trkpt>
+      <trkpt lat="65.1330072233844" lon="15.9234016020335">
+      </trkpt>
+      <trkpt lat="65.1327992183054" lon="15.9198031152161">
+      </trkpt>
+      <trkpt lat="65.1328015203355" lon="15.9167194930969">
+      </trkpt>
+      <trkpt lat="65.1325929879933" lon="15.9136350193821">
+      </trkpt>
+      <trkpt lat="65.1330367514459" lon="15.9074748195302">
+      </trkpt>
+      <trkpt lat="65.133473792068" lon="15.9043980997153">
+      </trkpt>
+      <trkpt lat="65.1343402957444" lon="15.9028647188511">
+      </trkpt>
+      <trkpt lat="65.1345619879139" lon="15.8997843522106">
+      </trkpt>
+      <trkpt lat="65.1332672408338" lon="15.8977186831719">
+      </trkpt>
+      <trkpt lat="65.1334950965414" lon="15.8915547078381">
+      </trkpt>
+      <trkpt lat="65.1345837171316" lon="15.8854011779383">
+      </trkpt>
+      <trkpt lat="65.1348103088431" lon="15.8807787209639">
+      </trkpt>
+      <trkpt lat="65.1356822821407" lon="15.8766772021026">
+      </trkpt>
+      <trkpt lat="65.144965188163" lon="15.8937254666706">
+      </trkpt>
+      <trkpt lat="65.1600785581216" lon="15.9195891819985">
+      </trkpt>
+      <trkpt lat="65.1622400630158" lon="15.9196117349862">
+      </trkpt>
+      <trkpt lat="65.1622373010878" lon="15.9232132819182">
+      </trkpt>
+      <trkpt lat="65.1615797266676" lon="15.9268038586461">
+      </trkpt>
+      <trkpt lat="65.160056990365" lon="15.9298730823746">
+      </trkpt>
+      <trkpt lat="65.1594050384165" lon="15.9319225315462">
+      </trkpt>
+      <trkpt lat="65.1593961624084" lon="15.9370643590106">
+      </trkpt>
+      <trkpt lat="65.1578790687087" lon="15.9385894988746">
+      </trkpt>
+      <trkpt lat="65.151342065927" lon="15.9606184482841">
+      </trkpt>
+      <trkpt lat="65.151333836121" lon="15.9642184848279">
+      </trkpt>
+      <trkpt lat="65.150033351354" lon="15.9642000951072">
+      </trkpt>
+      <trkpt lat="65.1491662230809" lon="15.9657323794088">
+      </trkpt>
+      <trkpt lat="65.1500250356737" lon="15.967799953076">
+      </trkpt>
+      <trkpt lat="65.1642601133568" lon="15.9936992858211">
+      </trkpt>
+      <trkpt lat="65.1738599774938" lon="15.9593572105251">
+      </trkpt>
+      <trkpt lat="65.1925945549781" lon="15.8942027767765">
+      </trkpt>
+      <trkpt lat="65.1941102960708" lon="15.8942158101738">
+      </trkpt>
+      <trkpt lat="65.1947614352479" lon="15.8926778904013">
+      </trkpt>
+      <trkpt lat="65.1969274171499" lon="15.8927009651878">
+      </trkpt>
+      <trkpt lat="65.2206686378729" lon="15.9357184335899">
+      </trkpt>
+      <trkpt lat="65.2215354522068" lon="15.934181032867">
+      </trkpt>
+      <trkpt lat="65.2215499703694" lon="15.9274801857684">
+      </trkpt>
+      <trkpt lat="65.2237072113169" lon="15.9326604474411">
+      </trkpt>
+      <trkpt lat="65.2237000974337" lon="15.9357519571347">
+      </trkpt>
+      <trkpt lat="65.222828332774" lon="15.937805093289">
+      </trkpt>
+      <trkpt lat="65.2221767342339" lon="15.9393435320169">
+      </trkpt>
+      <trkpt lat="65.222167601551" lon="15.944497542946">
+      </trkpt>
+      <trkpt lat="65.2228085293052" lon="15.9496604147327">
+      </trkpt>
+      <trkpt lat="65.2228005629197" lon="15.953267496988">
+      </trkpt>
+      <trkpt lat="65.2243087483703" lon="15.9563808466203">
+      </trkpt>
+      <trkpt lat="65.2236548661929" lon="15.9599817102428">
       </trkpt>
     </trkseg>
   </trk>
   <trk>
     <name>VN26</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.1260347426599" lon="16.2448385864847">
       </trkpt>
@@ -4713,8 +4946,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN30</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.0482307953299" lon="16.3623599419405">
       </trkpt>
@@ -4762,8 +4994,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN29</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.0735961036079" lon="16.1980013307389">
       </trkpt>
@@ -4885,8 +5116,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN28</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="65.086033948288" lon="16.0223681056492">
       </trkpt>
@@ -5084,8 +5314,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN33</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="64.9168939011972" lon="16.1839696707433">
       </trkpt>
@@ -5177,8 +5406,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN34</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="64.8927509994946" lon="16.1498722850888">
       </trkpt>
@@ -5340,8 +5568,7 @@ Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. in
   </trk>
   <trk>
     <name>VN35</name>
-    <desc>Vilhelmina Norra Sameby
-Används på egen risk.Filen skapad 2024-02-27 av Outdoor Recreation Sverige. info@fisketavling.nu</desc>
+    <desc>Vilhelmina Norra Sameby</desc>
     <trkseg>
       <trkpt lat="64.8381678031472" lon="16.1742248058931">
       </trkpt>
