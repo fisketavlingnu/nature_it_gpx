@@ -66,10 +66,11 @@ for line in filedata:
                 no_of_polygons+=1
             else:
                 if args.filter is None:
-                    print("VARNING("+name+ "): har flera polygoner associerade med sig - Använder endast första polygonen.")
+                    print("ERROR("+name+ "): har flera polygoner associerade med sig - Generar ej område "+name)
+                    db.pop(name)
                 elif args.filter in name:
-                    print("VARNING("+name+ "): har flera polygoner associerade med sig - Använder endast första polygonen.")
-
+                    print("ERROR("+name+ "): har flera polygoner associerade med sig - Generar ej område "+name)
+                    db.pop(name)
 gpx = gpxpy.gpx.GPX()
 
 gpx.description="Denna fil med jaktområden används på egen risk!"
